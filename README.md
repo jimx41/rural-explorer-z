@@ -1,2 +1,2 @@
 # rural-explorer-z
-TOS and Privacy Policy for my game Rural Explorer Z.
+TOS and Privacy policy for my game Rural Explorer Z.
